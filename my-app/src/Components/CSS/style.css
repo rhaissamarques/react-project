@@ -1,0 +1,120 @@
+body {
+    margin: 0px;
+    font-family: -webkit-pictograph;
+}
+
+.usuarios {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background: rgb(57,58,94);
+    background: linear-gradient(180deg, rgba(57,58,94,1) 0%, rgba(40,42,63,1) 100%);
+    width: 100%;
+    height: 150px;
+    border-bottom: 1px solid white;
+}
+
+.img-usuario {
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 50px;
+}
+
+.img-usuario img {
+    border-radius: 100%;
+    width: 80%;
+    
+}
+
+.identifica-usuario {
+    color: white;
+    font-weight: 700;
+    padding-left: 50px;
+    font-size: 25px;
+}
+
+button {
+    font-size: 25px;
+}
+
+.headerModal {
+    padding: 15px;
+    background-color: #474971;
+    font-size: 20px;
+}
+
+.headerModal span {
+    color: white;
+}
+
+.modalAberto {
+    display: flex;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    right: 'auto';
+    bottom: 'auto';
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 250px;
+    flex-direction: column;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.modalAberto .fecharX {
+    padding: 0px 5px;
+    cursor: pointer;
+    color: white;
+    display: inline-flex;
+    margin-left: 50px;
+}
+
+/* .modalAberto span{
+    background-color: #474971;
+    color: white;
+    padding: 10px;
+    width: 94%;
+    align-content: center;
+} */
+
+.modalAberto b {
+    color: #C8D63C;
+}
+
+.modalAberto select{
+    width: 326px;
+    height: 29px;
+}
+
+.modalAberto p {
+    text-align: center;
+}
+
+.modalAberto button {
+    width: 30%;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.inputValor {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputValor input {
+    width: 80%;
+    height: 25px;
+}
+
+.inputValor p {
+    margin: 0;
+    color: red;
+}

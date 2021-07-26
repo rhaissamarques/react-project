@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rhaissamarques/atividade-react.git/static/css/main.4811ab66.chunk.css",
+    "main.js": "/rhaissamarques/atividade-react.git/static/js/main.55eb8413.chunk.js",
+    "main.js.map": "/rhaissamarques/atividade-react.git/static/js/main.55eb8413.chunk.js.map",
+    "runtime-main.js": "/rhaissamarques/atividade-react.git/static/js/runtime-main.0f7d824d.js",
+    "runtime-main.js.map": "/rhaissamarques/atividade-react.git/static/js/runtime-main.0f7d824d.js.map",
+    "static/js/2.7df42503.chunk.js": "/rhaissamarques/atividade-react.git/static/js/2.7df42503.chunk.js",
+    "static/js/2.7df42503.chunk.js.map": "/rhaissamarques/atividade-react.git/static/js/2.7df42503.chunk.js.map",
+    "index.html": "/rhaissamarques/atividade-react.git/index.html",
+    "static/css/main.4811ab66.chunk.css.map": "/rhaissamarques/atividade-react.git/static/css/main.4811ab66.chunk.css.map",
+    "static/js/2.7df42503.chunk.js.LICENSE.txt": "/rhaissamarques/atividade-react.git/static/js/2.7df42503.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f7d824d.js",
+    "static/js/2.7df42503.chunk.js",
+    "static/css/main.4811ab66.chunk.css",
+    "static/js/main.55eb8413.chunk.js"
+  ]
+}
