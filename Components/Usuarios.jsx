@@ -146,8 +146,3 @@ export default Usuarios => {
         </>
     )
 }
-
-
-/* {cards.map((card, index) =>
-    <option value={'card'+index} key={'card'+index}>Cartão com final {card.card_number.substr(-4)}</option>
-)}  exemplo do ezequiel*/
